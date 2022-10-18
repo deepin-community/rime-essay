@@ -1,0 +1,17 @@
+rime-essay (0.0~git20210805.8882482-2) UNRELEASED; urgency=medium
+
+  * update
+
+ -- Debian Input Method Team <debian-input-method@lists.debian.org>  Fri, 22 Apr 2022 17:08:22 +0800
+
+rime-essay (0.0~git20210805.8882482-2) unstable; urgency=medium
+
+  * Source-only upload. 
+
+ -- Boyuan Yang <byang@debian.org>  Fri, 17 Dec 2021 14:37:37 -0500
+
+rime-essay (0.0~git20210805.8882482-1) unstable; urgency=medium
+
+  * Initial release. (Closes: #996638)
+
+ -- Boyuan Yang <byang@debian.org>  Sat, 16 Oct 2021 12:07:51 -0400
